@@ -1,6 +1,6 @@
-# NBA Stat Predictor Spring 2022
+# NBA Stat Predictor
 
-The NBA Stat Predictor is a predictive analytics project developed in Spring 2022, leveraging machine learning to forecast specific player statistics for hypothetical NBA games. Utilizing the `nba_api` to fetch detailed player and game data, this project employs Python's `pandas` for data manipulation and `scikit-learn` for its machine learning pipeline, including the `MLPClassifier` model and `train_test_split` method for training and testing. Data cleaning and formatting are performed using API calls and regular expressions, ensuring high-quality inputs for model training. The entire project is built and documented within a Jupyter Notebook environment, providing an interactive and educational experience for users.
+The NBA Stat Predictor is a predictive analytics project developed in Spring 2022 for my CS181Y class at Harvey-Mudd; the project uses machine learning to forecast specific player statistics for hypothetical or upcoming NBA games. Utilizing the `nba_api` to fetch detailed player and game data, this project employs Python's `pandas` for data manipulation and `scikit-learn` for its machine learning pipeline, including the `MLPClassifier` model and `train_test_split` method for training and testing. Data cleaning and formatting are performed using API calls and regular expressions, ensuring high-quality inputs for model training. The entire project is built and documented within a Jupyter Notebook environment, providing an interactive and educational experience for users.
 
 ## Features
 
