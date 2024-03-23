@@ -1,0 +1,14 @@
+---
+:id: 125670308
+:submitters:
+- :name: Joe Williams
+  :email: jvwa2018@mymail.pomona.edu
+- :name: Jason Phillips
+  :email: jfpa2018@mymail.pomona.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-05-07 05:38:05.014492000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-05-06 22:38:05.014492000 Z
+:status: processed
+:score: 200.0
